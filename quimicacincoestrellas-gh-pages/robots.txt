@@ -1,6 +1,0 @@
-
-User-agent: *
-Disallow: /*__*
-
-Sitemap: https://www.quimicacincoestrellas.site/sitemap.xml
-
